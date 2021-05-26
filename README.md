@@ -1,26 +1,28 @@
-Install IPython and Jupyter:
+# Run Steps:
+1. Open a Terminal
+2. Clone the project:
 
-# Install Jupyter:
-## On terminal:
-### with [conda](https://www.anaconda.com/download):
+    git clone https://github.com/Abstractize/Statistical-Inference.git
 
+3. Install Jupyter:
+    a. with [conda](https://www.anaconda.com/download):
+    ```
     conda install ipython jupyter
-
-### with pip:
+    ```
+    b. with pip:
+    ```
     # first, always upgrade pip!
     pip install --upgrade pip
     pip install --upgrade ipython jupyter
-
-# Open a Juypter Project:
-
+    ```
+4. Download [data](https://tecdigital.tec.ac.cr/dotlrn/classes/E/EL4702/S-1-2021.CA.EL4702.3/file-storage/view/Tareas%2Ftarea-2%2FConjunto_datos_tarea2.xlsx) and palce it inside the data folder as a .xlsx file
+5. Run Jupyter:
+    ```
     jupyter notebook
+    ```   
     or
+    ```   
     python -m notebook
-
-# Run Steps:
-1. Open a Terminal
-2. Install Jupyter
-3. Download Data and add it to the data folder as a .xlsx file
-4. Run Jupyter with commands provided
-5. Open statistical_inference.ipynb on web browser
-6. Run File
+    ```    
+6. Open statistical_inference.ipynb on web browser
+7. Run File
