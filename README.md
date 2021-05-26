@@ -5,6 +5,7 @@
     git clone https://github.com/Abstractize/Statistical-Inference.git
 
 3. Install Jupyter:
+
     a. with [conda](https://www.anaconda.com/download):
     ```
     conda install ipython jupyter
