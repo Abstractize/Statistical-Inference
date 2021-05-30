@@ -17,7 +17,12 @@
     pip install --upgrade ipython jupyter
     ```
 4. Download [data](https://tecdigital.tec.ac.cr/dotlrn/classes/E/EL4702/S-1-2021.CA.EL4702.3/file-storage/view/Tareas%2Ftarea-2%2FConjunto_datos_tarea2.xlsx) and palce it inside the data folder as a .xlsx file
-5. Run Jupyter:
+5. Install Dependencies:
+    ```
+    pip install pandas
+    pip install xlrd
+    ```
+6. Run Jupyter:
     ```
     jupyter notebook
     ```   
@@ -25,5 +30,5 @@
     ```   
     python -m notebook
     ```    
-6. Open statistical_inference.ipynb on web browser
-7. Run File
+7. Open statistical_inference.ipynb on web browser
+8. Run File
