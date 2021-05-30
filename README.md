@@ -20,7 +20,8 @@
 5. Install Dependencies:
     ```
     pip install pandas
-    pip install xlrd
+    pip install openpyxl
+    pip install numpy
     ```
 6. Run Jupyter:
     ```
