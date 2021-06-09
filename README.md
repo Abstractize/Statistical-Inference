@@ -16,7 +16,7 @@
     pip install --upgrade pip
     pip install --upgrade ipython jupyter
     ```
-4. Download [data](https://tecdigital.tec.ac.cr/dotlrn/classes/E/EL4702/S-1-2021.CA.EL4702.3/file-storage/view/Tareas%2Ftarea-2%2FConjunto_datos_tarea2.xlsx) and palce it inside the data folder as a .xlsx file
+4. Download [data](https://tecdigital.tec.ac.cr/dotlrn/classes/E/EL4702/S-1-2021.CA.EL4702.3/file-storage/view/Tareas%2Ftarea-2%2FConjunto_datos_tarea2.xlsx) and place it inside the data folder as a .xlsx file
 5. Install Dependencies:
     ```
     pip install pandas
